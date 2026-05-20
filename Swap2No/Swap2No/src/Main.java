@@ -17,7 +17,9 @@ public class Main {
             System.out.println("After Swap!");
             System.out.println("First no is "+firstNo+" and second no is "+secondNo);
             System.out.println("Do you wish to continue (y/n)");
-            char wishToCont = scanner.next().toLowerCase().charAt(0);
+            char wishToCont = scanner.next().toLowerCase(
+
+            ).charAt(0);
             if(wishToCont!='y')
                 continueSwap=false;
         }
