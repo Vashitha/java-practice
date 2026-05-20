@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Arrays/Arrays.iml" filepath="$PROJECT_DIR$/../Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculator.iml" filepath="$PROJECT_DIR$/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/../FindHypotenuse/FindHypotenuse.iml" filepath="$PROJECT_DIR$/../FindHypotenuse/FindHypotenuse.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Swap2No/Swap2No/Swap2No.iml" filepath="$PROJECT_DIR$/../Swap2No/Swap2No/Swap2No.iml" />
