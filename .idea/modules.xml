@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Day1/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Day1/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day1/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Day1/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2/DetectionEngine/DetectionEngine.iml" filepath="$PROJECT_DIR$/Day2/DetectionEngine/DetectionEngine.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day1/FindHypotenuse/FindHypotenuse.iml" filepath="$PROJECT_DIR$/Day1/FindHypotenuse/FindHypotenuse.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IntellijCode.iml" filepath="$PROJECT_DIR$/.idea/IntellijCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day1/Swap2No/Swap2No.iml" filepath="$PROJECT_DIR$/Day1/Swap2No/Swap2No.iml" />
